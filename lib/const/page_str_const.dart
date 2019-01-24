@@ -41,7 +41,7 @@ const NAVIGATION_PAGES = [
 const PROFILE_PAGES = [
   "Profile page 01",
   "Profile page 02",
-  "Profile page 03",
+  "Profile page 11",
 
   /// fixme you could add by your group one name fit one page.
 ];

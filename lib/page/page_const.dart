@@ -22,6 +22,7 @@ export 'signup/SingPageTen.dart';
 //PROFILE pages
 export 'profile/ProfilePageOne.dart';
 export 'profile/ProfilePageTwo.dart';
+export 'profile/ProfilePageEleven.dart';
 
 export 'feed/FeedPageFour.dart';
 export 'feed/FeedPageOne.dart';
@@ -36,4 +37,3 @@ export 'shopping/ShopPageNineteen.dart';
 
 export 'signup/SignPageFour.dart';
 export 'signup/SignPageEleven.dart';
-

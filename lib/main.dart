@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_nice/page/navigation/navigation1/coordinator.dart';
 import 'package:flutter_ui_nice/page/page_const.dart';
+import 'package:flutter_ui_nice/page/profile/ProfilePageEleven.dart';
 
 import 'const/string_const.dart';
 import 'const/color_const.dart';
@@ -28,6 +29,7 @@ class MyApp extends StatelessWidget {
         //PROFILE pages
         PROFILE_PAGES[0]: (context) => ProfilePageOne(),
         PROFILE_PAGES[1]: (context) => ProfilePageTwo(),
+        PROFILE_PAGES[2]: (context) => ProfilePageEleven(),
 
         SIGN_UP_PAGES[0]: (context) => SignPageOne(),
         SIGN_UP_PAGES[1]: (context) => SignPageTwo(),
